@@ -139,6 +139,40 @@ https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-nestjs-api
 
 ---
 
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-angular-frontend.git
+```
+
+2. Ingresar al proyecto:
+
+```bash
+cd Rumbo-Criollo-red-social-angular-frontend
+```
+
+3. Instalar dependencias:
+
+```bash
+npm install
+```
+
+4. Ejecutar el servidor de desarrollo:
+
+```bash
+ng serve
+```
+
+5. Abrir la aplicación en el navegador:
+
+```text
+http://localhost:4200
+```
+
+---
+
 ## ✅ Contexto académico
 
 Este proyecto fue desarrollado como parte de **Programación IV**.
@@ -157,6 +191,8 @@ El trabajo se organizó por etapas e incluye:
 ---
 
 ## 💡 Lo que demuestra este proyecto
+
+Este proyecto demuestra conocimientos en:
 
 - Desarrollo frontend con Angular y TypeScript.
 - Consumo de API REST.
@@ -177,3 +213,9 @@ El trabajo se organizó por etapas e incluye:
 
 GitHub: https://github.com/JoaquinCarbonaro  
 LinkedIn: https://www.linkedin.com/in/joaquin-carbonaro
+
+---
+
+## 🧾 Uso
+
+Este proyecto se comparte con fines educativos y de portfolio. Puede utilizarse como referencia para proyectos académicos relacionados con Angular, TypeScript, consumo de API REST, autenticación JWT, rutas protegidas, perfiles de usuario, publicaciones, comentarios, likes y dashboards administrativos.
